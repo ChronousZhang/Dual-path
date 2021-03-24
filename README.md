@@ -7,7 +7,7 @@
 
 #### Get Start
 1. 下载flickr30k数据集，链接：https://pan.baidu.com/s/1E1mfsuoDsc56OZtmuNnJrQ  提取码：1ati 
-2. git clone git@github.com:ChronousZhang/Dual-path.git
+2. git clone https://github.com/ChronousZhang/Dual-path.git
 3. 下载word2vector模型，用于将文本转换为词向量，链接：https://pan.baidu.com/s/1Y9D73eSFlLxFh4SmrTfOew 提取码：n4rs 
 4. mkdir /data/yourUser/flickr30k/Dual-path 并将下载好的flickr30k数据集放到/data/yourUser/flickr30k中
 5. 解压flickr30k数据集：tar -xzvf flickr30k.tar.gz   tar -xvf flickr30k-images.tar
